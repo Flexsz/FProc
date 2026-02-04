@@ -22,7 +22,7 @@
 - [🛠️ Technical Details](#️-technical-details)
 - [📸 Screenshot](#-screenshot)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-LICENSE)
+- [📄 License](#-license)
 
 ## ✨ Features
 
