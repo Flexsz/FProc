@@ -19,7 +19,7 @@
 - [🔧 Build Instructions](#-build-instructions)
 - [🎯 Usage](#-usage)
 - [📁 Project Structure](#-project-structure)
-- [🛠️ Technical Details](#️-technical-details)
+- [🛠️ Technical Details](#-technical)
 - [📸 Screenshot](screenshot/image.png)
 - [🤝 Contributing](#-contributing)
 - [📄 License](LICENSE)
