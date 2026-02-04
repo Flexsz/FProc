@@ -16,9 +16,9 @@
 ## 📖 Table of Contents
 - [✨ Features](#-features)
 - [🚀 Quick Start](#-quick-start)
-- [🔧 Build Instructions](#-build-instructions)
+- [🔧 Build Instructions]((#-technical)
 - [🎯 Usage](#-usage)
-- [📁 Project Structure](#-project-structure)
+- [📁 Project Structure](https://github.com/Flexsz/FProc/tree/main/src)
 - [🛠️ Technical Details](#-technical)
 - [📸 Screenshot](screenshot/image.png)
 - [🤝 Contributing](#-contributing)
