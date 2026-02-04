@@ -17,11 +17,10 @@
 - [✨ Features](#-features)
 - [🚀 Quick Start](#-quick-start)
 - [🔧 Build Instructions](#-technical)
-- [🎯 Usage](#-usage)
+- [🎯 Usage](#-quick-start)
 - [📁 Project Structure](https://github.com/Flexsz/FProc/tree/main/src)
 - [🛠️ Technical Details](#-technical)
 - [📸 Screenshot](screenshot/image.png)
-- [🤝 Contributing](#-contributing)
 - [📄 License](LICENSE)
 
 ## ✨ Features
