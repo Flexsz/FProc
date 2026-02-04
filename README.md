@@ -20,7 +20,7 @@
 - [🎯 Usage](#-usage)
 - [📁 Project Structure](#-project-structure)
 - [🛠️ Technical Details](#️-technical-details)
-- [📸 Screenshot](#-screenshot)
+- [📸 Screenshot](screenshot/image.png)
 - [🤝 Contributing](#-contributing)
 - [📄 License](LICENSE)
 
