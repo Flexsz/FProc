@@ -1,7 +1,7 @@
-# 🖥️ FProc - Windows Process Monitor
+# 🖥️ SProc - Windows Process Monitor
 
 <p align="center">
-  <img src="screenshot/image.png" alt="FProc Screenshot" width="800">
+  <img src="screenshot/image.png" alt="SProc Screenshot" width="800">
   <br>
   <em>Professional Windows process monitoring tool with real-time system insights</em>
 </p>
@@ -14,39 +14,39 @@
 </p>
 
 ## 📖 Table of Contents
-- [✨ Features](#-features)
-- [🚀 Quick Start](#-quick-start)
-- [🔧 Build Instructions](#-technical)
-- [🎯 Usage](#-quick-start)
-- [📁 Project Structure](https://github.com/Flexsz/FProc/tree/main/src)
-- [🛠️ Technical Details](#-technical)
-- [📸 Screenshot](screenshot/image.png)
-- [📄 License](LICENSE)
+- [Features](#-features)
+- [Quick Start](#-quick-start)
+- [Build Instructions](#-technical)
+- [Usage](#-quick-start)
+- [Project Structure](https://github.com/syakaya/SProc/tree/main/src)
+- [Technical Details](#-technical)
+- [Screenshot](screenshot/image.png)
+- [License](LICENSE)
 
-## ✨ Features
+## Features
 
-### 🔍 **Real-time Monitoring**
+### **Real-time Monitoring**
 - **Live Process Enumeration** - Up-to-date list of all running processes
 - **Dynamic Memory Tracking** - Real-time RAM usage per process (MB/KB)
 - **Process Details** - PID, name, and resource consumption
 
-### 🎨 **User Interface**
+### **User Interface**
 - **Console GUI** - Clean, flicker-free interface with partial screen updates
 - **Keyboard Controls** - Intuitive navigation (Scroll, Refresh, Quit)
 - **Responsive Design** - Adapts to console window size
 - **Process Filtering** - Smart display with scrollable lists
 
-### ⚡ **Performance**
+### **Performance**
 - **Efficient Updates** - Partial screen refresh minimizes flickering
 - **Low Resource Usage** - Lightweight native Windows application
 - **Fast Response** - Instant process listing and updates
 
-### 🔧 **Technical**
+### **Technical**
 - **Windows API Integration** - Direct system calls for maximum performance
 - **Modern C++17** - Clean, maintainable codebase
 - **CMake Build** - Cross-platform build configuration
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Windows 10/11
@@ -57,8 +57,8 @@
 ### Clone & Build
 ```bash
 # Clone the repository
-git clone https://github.com/Flexsz/FProc.git
-cd FProc
+git clone https://github.com/sykaya/SProc.git
+cd SProc
 
 # Create build directory
 mkdir build && cd build
