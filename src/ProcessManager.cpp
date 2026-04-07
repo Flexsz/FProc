@@ -6,7 +6,7 @@
 // Important: Modifying coordinate calculations may break the layout.
 // Test any changes with various screen sizes.
 // 
-// Author: Flexsz
+// Author: sykaya
 // Last Modified: Last Modified: 2026 February 5
 
 #include "ProcessManager.h"
@@ -30,7 +30,7 @@ ProcessManager::ProcessManager() : currentScroll(0)
 
 void ProcessManager::initializeConsole()
 {
-    ConsoleUtils::setConsoleTitle("FProc Manager by Flexsz (v3.7)");
+    ConsoleUtils::setConsoleTitle("SProc Manager by sykaya (v3.7)");
     ConsoleUtils::moveConsoleWindow(100, 100, 900, 950);
     ConsoleUtils::setConsoleSize(BOX_WIDTH + 10, MAX_PROCESSES_DISPLAY + 20);
 
