@@ -70,4 +70,4 @@ cmake .. -G "MinGW Makefiles"
 mingw32-make
 
 # Run the executable
-./FProc.exe
+./SProc.exe
