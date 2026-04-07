@@ -3,7 +3,7 @@
 int main() {
     // Main entry point for Windows Process Monitor
     // Initializes and runs the process management system
-    // Author: Flexsz
+    // Author: sykaya
 
     ProcessManager manager;
     
