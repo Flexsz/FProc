@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(FProc
+project(SProc
     VERSION 3.7.0
     DESCRIPTION "Windows Process Monitoring Tool"
 )
@@ -24,8 +24,8 @@ set(SOURCE_FILES
     src/ConsoleUtils.h
 )
 
-if(EXISTS "${CMAKE_CURRENT_SOURCE_DIR}/assets/FProc.rc")
-    set(SOURCE_FILES ${SOURCE_FILES} assets/FProc.rc)
+if(EXISTS "${CMAKE_CURRENT_SOURCE_DIR}/assets/SProc.rc")
+    set(SOURCE_FILES ${SOURCE_FILES} assets/SProc.rc)
     message(STATUS "Found resource file in assets/ folder")
 endif()
 
